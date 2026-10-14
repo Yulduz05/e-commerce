@@ -1,0 +1,954 @@
+[
+  {
+    "id": "tech-01",
+    "sku": "TECH-APEX-16",
+    "name": "ApexBook Pro 16\" Studio Edition",
+    "brand": "ApexTech",
+    "slug": "apexbook-pro-16-studio-edition",
+    "category": "computers-tech",
+    "price": 2399.99,
+    "compareAtPrice": 2599.99,
+    "rating": 4.9,
+    "reviewCount": 184,
+    "stock": 18,
+    "isFeatured": true,
+    "isNewArrival": false,
+    "thumbnail": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "Flagship 16-inch M3 Pro power workstation with Liquid Retina XDR display and 22-hour battery life.",
+    "description": "Engineered for elite creative professionals and developers. The ApexBook Pro features high-bandwidth unified memory, hardware-accelerated ray tracing, studio-grade triple microphone array, and MagSafe ultra-fast charging.",
+    "tags": ["laptop", "developer", "m3", "apple", "retina", "workstation"],
+    "attributes": {
+      "category": "computers-tech",
+      "cpu": "M3 Max 16-Core CPU",
+      "ram": ["36GB Unified", "64GB Unified", "128GB Unified"],
+      "gpu": "40-Core GPU with Hardware Raytracing",
+      "storageOptions": ["1TB NVMe SSD", "2TB NVMe SSD", "4TB NVMe SSD"],
+      "screenSize": "16.2-inch Liquid Retina XDR (3456 x 2234)",
+      "ports": ["3x Thunderbolt 4", "HDMI 2.1", "SDXC Card Reader", "Headphone Jack", "MagSafe 3"],
+      "operatingSystem": "macOS Sonoma / Sequoia",
+      "warrantyOptions": [
+        {
+          "id": "warr-tech-01",
+          "title": "Standard 1-Year Manufacturer Warranty",
+          "price": 0,
+          "durationMonths": 12,
+          "coverage": "Hardware defects and telephone technical support."
+        },
+        {
+          "id": "warr-tech-02",
+          "title": "ApexCare+ 2-Year Complete Protection",
+          "price": 199.99,
+          "durationMonths": 24,
+          "coverage": "Unlimited accidental damage protection, 24/7 priority priority support."
+        },
+        {
+          "id": "warr-tech-03",
+          "title": "ApexCare+ 3-Year Pro Shield",
+          "price": 349.99,
+          "durationMonths": 36,
+          "coverage": "Full accidental drop & spill coverage with on-site hardware exchange."
+        }
+      ]
+    }
+  },
+  {
+    "id": "tech-02",
+    "sku": "TECH-TITAN-PC",
+    "name": "Titan Valkyrie Liquid RTX 4090 Workstation",
+    "brand": "Titan Rig",
+    "slug": "titan-valkyrie-liquid-rtx-4090",
+    "category": "computers-tech",
+    "price": 3899.99,
+    "compareAtPrice": 4199.99,
+    "rating": 4.8,
+    "reviewCount": 92,
+    "stock": 7,
+    "isFeatured": true,
+    "isNewArrival": true,
+    "thumbnail": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "Custom liquid-cooled high-end desktop gaming & 3D rendering powerhouse.",
+    "description": "Constructed with aeronautical-grade aluminum chassis, dual 360mm custom copper radiators, AMD Ryzen 9 7950X3D, and 24GB GeForce RTX 4090 OC.",
+    "tags": ["gaming-pc", "desktop", "rtx4090", "liquid-cooled", "4k"],
+    "attributes": {
+      "category": "computers-tech",
+      "cpu": "AMD Ryzen 9 7950X3D (16 cores, 5.7 GHz)",
+      "ram": ["64GB DDR5-6000MHz", "128GB DDR5-6000MHz"],
+      "gpu": "NVIDIA GeForce RTX 4090 24GB GDDR6X",
+      "storageOptions": ["2TB Gen4 NVMe M.2", "4TB Gen4 NVMe M.2 (2x 2TB)"],
+      "screenSize": "Desktop Tower (No Monitor Included)",
+      "ports": ["2x USB4 Type-C", "8x USB 3.2 Gen2", "2.5G Intel LAN", "WiFi 7 Antenna", "Optical SPDIF"],
+      "operatingSystem": "Windows 11 Pro",
+      "warrantyOptions": [
+        {
+          "id": "warr-titan-01",
+          "title": "2-Year Parts & Lifetime Labor Warranty",
+          "price": 0,
+          "durationMonths": 24,
+          "coverage": "Full replacement for leaking components and hardware failures."
+        },
+        {
+          "id": "warr-titan-02",
+          "title": "4-Year On-Site Rapid Swap Support",
+          "price": 279.99,
+          "durationMonths": 48,
+          "coverage": "Next-business-day on-site replacement technician guarantee."
+        }
+      ]
+    }
+  },
+  {
+    "id": "tech-03",
+    "sku": "TECH-HORIZON-34",
+    "name": "Horizon QD-OLED 34\" 175Hz Curved Display",
+    "brand": "ApexTech",
+    "slug": "horizon-qd-oled-34-curved-display",
+    "category": "computers-tech",
+    "price": 899.99,
+    "compareAtPrice": 1099.99,
+    "rating": 4.7,
+    "reviewCount": 140,
+    "stock": 25,
+    "isFeatured": false,
+    "isNewArrival": true,
+    "thumbnail": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "Ultrawide 21:9 curved QD-OLED monitor with infinite contrast and 0.03ms response time.",
+    "description": "True 10-bit color, 99.3% DCI-P3 coverage, 1800R curve curvature, DisplayHDR True Black 400 certification, and built-in 90W USB-C KVM switch.",
+    "tags": ["monitor", "oled", "ultrawide", "175hz", "curved"],
+    "attributes": {
+      "category": "computers-tech",
+      "cpu": "Integrated Scaler SoC",
+      "ram": ["N/A"],
+      "gpu": "G-Sync Ultimate & FreeSync Premium Pro",
+      "storageOptions": ["Built-in KVM Firmware"],
+      "screenSize": "34.18-inch QD-OLED Curved (3440 x 1440)",
+      "ports": ["2x DisplayPort 1.4", "1x HDMI 2.1", "1x USB-C 90W PD", "4x USB 3.0 Hub"],
+      "operatingSystem": "Universal OS Compatible",
+      "warrantyOptions": [
+        {
+          "id": "warr-mon-01",
+          "title": "3-Year Zero Bright Dot & Burn-in Warranty",
+          "price": 0,
+          "durationMonths": 36,
+          "coverage": "Complete panel replacement for any OLED burn-in or subpixel defect."
+        }
+      ]
+    }
+  },
+  {
+    "id": "tech-04",
+    "sku": "TECH-STEALTH-KB",
+    "name": "StealthMech Pro Wireless Mechanical Keyboard",
+    "brand": "KeyNova",
+    "slug": "stealthmech-pro-wireless-keyboard",
+    "category": "computers-tech",
+    "price": 179.99,
+    "compareAtPrice": 199.99,
+    "rating": 4.9,
+    "reviewCount": 312,
+    "stock": 64,
+    "isFeatured": false,
+    "isNewArrival": false,
+    "thumbnail": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "CNC aluminum gasket-mount keyboard with hot-swappable tactile switches and tri-mode 2.4GHz connectivity.",
+    "description": "Double-shot PBT keycaps, sound-dampening PORON foam inserts, per-key RGB backlighting, rotary volume knob, and 200 hours battery longevity.",
+    "tags": ["keyboard", "mechanical", "wireless", "custom-keeb"],
+    "attributes": {
+      "category": "computers-tech",
+      "cpu": "ARM Cortex-M4 Microcontroller",
+      "ram": ["Onboard Profile Memory"],
+      "storageOptions": ["3 Onboard Custom Macros"],
+      "ports": ["USB Type-C", "2.4GHz Wireless Dongle", "Bluetooth 5.2"],
+      "operatingSystem": "QMK / VIA / macOS / Windows / Linux",
+      "warrantyOptions": [
+        {
+          "id": "warr-kb-01",
+          "title": "2-Year Key Switch Replacement Warranty",
+          "price": 19.99,
+          "durationMonths": 24,
+          "coverage": "Instant switch pack and PCB replacement guarantee."
+        }
+      ]
+    }
+  },
+  {
+    "id": "tech-05",
+    "sku": "TECH-SOUND-XM",
+    "name": "AuraPulse ANC Spatial Wireless Headphones",
+    "brand": "AuraAudio",
+    "slug": "aurapulse-anc-spatial-headphones",
+    "category": "computers-tech",
+    "price": 349.99,
+    "compareAtPrice": 399.99,
+    "rating": 4.8,
+    "reviewCount": 425,
+    "stock": 42,
+    "isFeatured": true,
+    "isNewArrival": false,
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "Flagship hybrid active noise cancelling headphones with LDAC lossless streaming and head tracking.",
+    "description": "Custom 40mm bio-cellulose drivers, 8 beamforming microphones for crystal-clear calls, 45 hours playback, and ultra-plush memory foam magnetic ear pads.",
+    "tags": ["audio", "anc", "spatial-audio", "bluetooth", "headphones"],
+    "attributes": {
+      "category": "computers-tech",
+      "cpu": "Dual-Core Audio DSP",
+      "ram": ["Adaptive EQ Processor"],
+      "storageOptions": ["Preset Audio Profiles"],
+      "ports": ["USB-C Audio & Fast Charge", "3.5mm Analog Audio"],
+      "operatingSystem": "iOS, Android, Windows, Mac",
+      "warrantyOptions": [
+        {
+          "id": "warr-audio-01",
+          "title": "2-Year Battery & Headband Care",
+          "price": 39.99,
+          "durationMonths": 24,
+          "coverage": "Free battery refresh and pad replacements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "apparel-01",
+    "sku": "APP-ALPIN-JKT",
+    "name": "Nordic Peak 3-Layer GORE-TEX Pro Shell",
+    "brand": "Nordic Alpine",
+    "slug": "nordic-peak-goretex-pro-shell",
+    "category": "clothing-apparel",
+    "price": 549.99,
+    "compareAtPrice": 629.99,
+    "rating": 4.9,
+    "reviewCount": 87,
+    "stock": 22,
+    "isFeatured": true,
+    "isNewArrival": true,
+    "thumbnail": "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "Rugged waterproof mountain shell designed for severe alpine conditions and expedition touring.",
+    "description": "Constructed with GORE-TEX Pro Most Rugged 80D recycled nylon face fabric. Features RECCO rescue reflectors, watertight pit zips, helmet-compatible StormHood, and fully taped micro-seams.",
+    "tags": ["jacket", "waterproof", "gore-tex", "outdoor", "alpine"],
+    "attributes": {
+      "category": "clothing-apparel",
+      "gender": "unisex",
+      "material": "100% Recycled 80D Polyamide with ePTFE membrane",
+      "fit": "regular",
+      "sizes": [
+        { "size": "XS", "stock": 3 },
+        { "size": "S", "stock": 5 },
+        { "size": "M", "stock": 8 },
+        { "size": "L", "stock": 4 },
+        { "size": "XL", "stock": 2 }
+      ],
+      "colors": [
+        { "name": "Obsidian Black", "hex": "#1a1a1a" },
+        { "name": "Glacier Teal", "hex": "#2e6f77" },
+        { "name": "Summit Orange", "hex": "#d35400" }
+      ],
+      "careInstructions": "Machine wash warm 40°C on gentle cycle. Tumble dry low to reactivate DWR coating."
+    }
+  },
+  {
+    "id": "apparel-02",
+    "sku": "APP-HEAVY-TEE",
+    "name": "Heavyweight 280 GSM Structured Cotton Tee",
+    "brand": "Studio Basic",
+    "slug": "heavyweight-280-gsm-cotton-tee",
+    "category": "clothing-apparel",
+    "price": 42.00,
+    "compareAtPrice": 48.00,
+    "rating": 4.8,
+    "reviewCount": 612,
+    "stock": 145,
+    "isFeatured": false,
+    "isNewArrival": false,
+    "thumbnail": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "Boxy-fit luxury cotton t-shirt with reinforced 1.25\" collar ribbing and drop shoulders.",
+    "description": "Made from 100% long-staple combed Aegean cotton. Pre-shrunk yarn avoids collar stretching, giving a timeless architectural drape.",
+    "tags": ["t-shirt", "heavyweight", "streetwear", "basics"],
+    "attributes": {
+      "category": "clothing-apparel",
+      "gender": "unisex",
+      "material": "100% Long-Staple Combed Aegean Cotton (280 GSM)",
+      "fit": "oversized",
+      "sizes": [
+        { "size": "S", "stock": 30 },
+        { "size": "M", "stock": 50 },
+        { "size": "L", "stock": 45 },
+        { "size": "XL", "stock": 20 }
+      ],
+      "colors": [
+        { "name": "Vintage White", "hex": "#f5f5f0" },
+        { "name": "Washed Charcoal", "hex": "#333333" },
+        { "name": "Earthy Olive", "hex": "#556b2f" },
+        { "name": "Deep Navy", "hex": "#1b263b" }
+      ],
+      "careInstructions": "Cold wash inside out with like colors. Hang dry or dry flat."
+    }
+  },
+  {
+    "id": "apparel-03",
+    "sku": "APP-SELV-DENIM",
+    "name": "Kuroki Japanese Selvedge Denim 14.5oz",
+    "brand": "Atelier Denim",
+    "slug": "kuroki-japanese-selvedge-denim",
+    "category": "clothing-apparel",
+    "price": 210.00,
+    "compareAtPrice": 240.00,
+    "rating": 4.9,
+    "reviewCount": 118,
+    "stock": 34,
+    "isFeatured": false,
+    "isNewArrival": true,
+    "thumbnail": "https://images.unsplash.com/photo-1542272604-780c96856592?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-780c96856592?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "Unwashed raw shuttle-loom selvedge jeans from Okayama, Japan. Classic slim-straight taper.",
+    "description": "Woven on vintage Toyoda shuttle looms with genuine red-line ticker. Features solid brass custom doughnut buttons, hidden back pocket rivets, and vegetable-tanned leather patch.",
+    "tags": ["jeans", "denim", "selvedge", "japan", "indigo"],
+    "attributes": {
+      "category": "clothing-apparel",
+      "gender": "men",
+      "material": "100% Cotton Okayama Rope-Dyed Selvedge (14.5 oz)",
+      "fit": "regular",
+      "sizes": [
+        { "size": "30x32", "stock": 6 },
+        { "size": "32x32", "stock": 12 },
+        { "size": "34x32", "stock": 10 },
+        { "size": "36x34", "stock": 6 }
+      ],
+      "colors": [
+        { "name": "Raw Deep Indigo", "hex": "#101d36" }
+      ],
+      "careInstructions": "Wear for 6 months before first soak. Hand soak cold with woolite dark; hang dry."
+    }
+  },
+  {
+    "id": "apparel-04",
+    "sku": "APP-MERINO-SW",
+    "name": "Heritage 100% Merino Wool Fisherman Sweater",
+    "brand": "Nordic Alpine",
+    "slug": "merino-wool-fisherman-sweater",
+    "category": "clothing-apparel",
+    "price": 165.00,
+    "compareAtPrice": 195.00,
+    "rating": 4.7,
+    "reviewCount": 154,
+    "stock": 28,
+    "isFeatured": false,
+    "isNewArrival": false,
+    "thumbnail": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "Traditional cable knit sweater crafted from naturally temperature-regulating extra-fine wool.",
+    "description": "Soft on bare skin, odor-resistant, and breathable. Traditional honeycomb and cable stitches symbolize prosperity and resilience.",
+    "tags": ["sweater", "merino-wool", "knitwear", "winter"],
+    "attributes": {
+      "category": "clothing-apparel",
+      "gender": "women",
+      "material": "100% Extra-Fine Australian Merino Wool",
+      "fit": "relaxed",
+      "sizes": [
+        { "size": "XS", "stock": 4 },
+        { "size": "S", "stock": 10 },
+        { "size": "M", "stock": 9 },
+        { "size": "L", "stock": 5 }
+      ],
+      "colors": [
+        { "name": "Natural Cream", "hex": "#faf0e6" },
+        { "name": "Oatmeal Heather", "hex": "#d6cbb8" },
+        { "name": "Forest Emerald", "hex": "#1e3f20" }
+      ],
+      "careInstructions": "Hand wash cold only. Do not wring. Reshape and dry flat on a towel."
+    }
+  },
+  {
+    "id": "apparel-05",
+    "sku": "APP-AERORUN-HD",
+    "name": "AeroDry Seamless Performance Training Hoodie",
+    "brand": "ProSpeed Athletic",
+    "slug": "aerodry-seamless-training-hoodie",
+    "category": "clothing-apparel",
+    "price": 88.00,
+    "compareAtPrice": 98.00,
+    "rating": 4.8,
+    "reviewCount": 240,
+    "stock": 52,
+    "isFeatured": false,
+    "isNewArrival": true,
+    "thumbnail": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "Engineered knit athletic hoodie with anti-chafing mapped ventilation and hidden zippered key pocket.",
+    "description": "Sweat-wicking 4-way stretch fabric retains warmth without excess weight. Thumbholes keep sleeves securely in place during high-cadence runs.",
+    "tags": ["hoodie", "running", "athletic", "gym", "seamless"],
+    "attributes": {
+      "category": "clothing-apparel",
+      "gender": "men",
+      "material": "78% Recycled Polyamide, 22% Elastane",
+      "fit": "slim",
+      "sizes": [
+        { "size": "S", "stock": 12 },
+        { "size": "M", "stock": 20 },
+        { "size": "L", "stock": 14 },
+        { "size": "XL", "stock": 6 }
+      ],
+      "colors": [
+        { "name": "Stealth Black", "hex": "#111111" },
+        { "name": "Storm Slate", "hex": "#505965" }
+      ],
+      "careInstructions": "Machine wash cold with similar fabrics. Do not use fabric softeners."
+    }
+  },
+  {
+    "id": "cleats-01",
+    "sku": "CLEAT-STRIKE-FG",
+    "name": "Predator Strike Pro FG Elite",
+    "brand": "Vanguard Football",
+    "slug": "predator-strike-pro-fg-elite",
+    "category": "sports-cleats",
+    "price": 279.99,
+    "compareAtPrice": 299.99,
+    "rating": 4.9,
+    "reviewCount": 178,
+    "stock": 26,
+    "isFeatured": true,
+    "isNewArrival": true,
+    "thumbnail": "https://images.unsplash.com/photo-1511886929837-354d827aae26?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1511886929837-354d827aae26?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "Elite firm-ground cleats with high-grip rubber strike fins for lethal swerve and pinpoint shooting.",
+    "description": "Constructed with a PrimeKnit low-collar tongue and split Controlframe 2.0 outsole. Specifically tuned for natural, dry grass pitches to deliver explosive acceleration and ball grip.",
+    "tags": ["cleats", "soccer", "firm-ground", "elite", "predator"],
+    "attributes": {
+      "category": "sports-cleats",
+      "groundType": "FG",
+      "groundDescription": "Firm Ground: Engineered for short natural grass fields that are firm and dry.",
+      "studType": "Molded Chevron & Diamond Studs",
+      "collarStyle": "low-cut",
+      "upperMaterial": "HybridTouch 2.0 with Strikeskin 3D rubber ribs",
+      "proTier": "Elite",
+      "shoeSizes": [
+        { "size": 8.0, "stock": 3 },
+        { "size": 8.5, "stock": 5 },
+        { "size": 9.0, "stock": 6 },
+        { "size": 9.5, "stock": 4 },
+        { "size": 10.0, "stock": 5 },
+        { "size": 10.5, "stock": 3 }
+      ]
+    }
+  },
+  {
+    "id": "cleats-02",
+    "sku": "CLEAT-VELOC-AG",
+    "name": "Veloce Speed Phantom AG-Pro",
+    "brand": "ProSpeed Athletic",
+    "slug": "veloce-speed-phantom-ag-pro",
+    "category": "sports-cleats",
+    "price": 249.99,
+    "compareAtPrice": 269.99,
+    "rating": 4.8,
+    "reviewCount": 133,
+    "stock": 19,
+    "isFeatured": false,
+    "isNewArrival": false,
+    "thumbnail": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "Conical hollowed studs tailored for 3G/4G synthetic turf to prevent knee torquing and heat buildup.",
+    "description": "Ultralight vaporposite+ upper hugs the foot with a compressive sock collar. Hollowed-out circular studs provide 360-degree rotational traction on artificial pitches.",
+    "tags": ["cleats", "artificial-grass", "speed", "turf", "ag"],
+    "attributes": {
+      "category": "sports-cleats",
+      "groundType": "AG",
+      "groundDescription": "Artificial Grass: Multi-conical circular studs for synthetic 3G/4G crumb-rubber pitches.",
+      "studType": "Hollow Circular Conical AG Studs",
+      "collarStyle": "high-collar",
+      "upperMaterial": "Gripknit Micro-textured Synthetic",
+      "proTier": "Pro",
+      "shoeSizes": [
+        { "size": 8.5, "stock": 4 },
+        { "size": 9.0, "stock": 4 },
+        { "size": 9.5, "stock": 5 },
+        { "size": 10.0, "stock": 4 },
+        { "size": 11.0, "stock": 2 }
+      ]
+    }
+  },
+  {
+    "id": "cleats-03",
+    "sku": "CLEAT-MAESTRO-SG",
+    "name": "Maestro Touch Classic SG Soft Ground",
+    "brand": "Vanguard Football",
+    "slug": "maestro-touch-classic-sg",
+    "category": "sports-cleats",
+    "price": 229.99,
+    "compareAtPrice": 249.99,
+    "rating": 4.7,
+    "reviewCount": 89,
+    "stock": 14,
+    "isFeatured": false,
+    "isNewArrival": false,
+    "thumbnail": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "Traditional screw-in aluminum stud configuration for muddy, saturated rainy day match days.",
+    "description": "K-Leather quilted forefoot for buttery-smooth first touch. Anti-Clog traction technology prevents mud from clinging to the outsole in heavy downpours.",
+    "tags": ["cleats", "soft-ground", "metal-studs", "sg", "leather"],
+    "attributes": {
+      "category": "sports-cleats",
+      "groundType": "SG",
+      "groundDescription": "Soft Ground: 6 interchangeable metal aluminum studs for muddy and wet grass.",
+      "studType": "Exchangeable 11mm & 13mm Aluminum Studs",
+      "collarStyle": "low-cut",
+      "upperMaterial": "Premium Kangaroo-Leather with Hydrophobic Coating",
+      "proTier": "Elite",
+      "shoeSizes": [
+        { "size": 8.0, "stock": 2 },
+        { "size": 9.0, "stock": 4 },
+        { "size": 10.0, "stock": 5 },
+        { "size": 10.5, "stock": 3 }
+      ]
+    }
+  },
+  {
+    "id": "cleats-04",
+    "sku": "CLEAT-STREET-IN",
+    "name": "StreetFutsal Pro Court IC",
+    "brand": "ProSpeed Athletic",
+    "slug": "streetfutsal-pro-court-ic",
+    "category": "sports-cleats",
+    "price": 119.99,
+    "compareAtPrice": 139.99,
+    "rating": 4.8,
+    "reviewCount": 210,
+    "stock": 38,
+    "isFeatured": false,
+    "isNewArrival": true,
+    "thumbnail": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "Non-marking gum rubber outsole designed for hardwood futsal courts and street concrete.",
+    "description": "Responsive Lunarlon foam midsole absorbs high impact on hard surfaces. Reinforced suede toe cap delivers durability for toe-poke strikes.",
+    "tags": ["futsal", "indoor", "court", "non-marking", "soccer"],
+    "attributes": {
+      "category": "sports-cleats",
+      "groundType": "IN",
+      "groundDescription": "Indoor Court: Non-marking herringbone gum sole for gym floor and futsal courts.",
+      "studType": "Flat Herringbone Non-Marking Gum Rubber",
+      "collarStyle": "low-cut",
+      "upperMaterial": "Mesh with Suede Abrasion Toe Bumper",
+      "proTier": "Pro",
+      "shoeSizes": [
+        { "size": 7.5, "stock": 4 },
+        { "size": 8.5, "stock": 8 },
+        { "size": 9.5, "stock": 12 },
+        { "size": 10.5, "stock": 8 },
+        { "size": 11.5, "stock": 6 }
+      ]
+    }
+  },
+  {
+    "id": "cleats-05",
+    "sku": "CLEAT-TURF-TF",
+    "name": "TurfMaster Control Pro TF",
+    "brand": "Vanguard Football",
+    "slug": "turfmaster-control-pro-tf",
+    "category": "sports-cleats",
+    "price": 129.99,
+    "compareAtPrice": 149.99,
+    "rating": 4.6,
+    "reviewCount": 95,
+    "stock": 27,
+    "isFeatured": false,
+    "isNewArrival": false,
+    "thumbnail": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "Dense micro-lug outsole for sand-based or shallow astro-turf fields with EVA cushioning.",
+    "description": "Engineered for 5-a-side and 7-a-side weekly leagues on carpet turf. Low-profile rubber lugs provide secure traction without sticking into shallow turf fibers.",
+    "tags": ["turf", "astro-turf", "cleats", "tf", "5-a-side"],
+    "attributes": {
+      "category": "sports-cleats",
+      "groundType": "TF",
+      "groundDescription": "Turf: Multi-directional rubber micro-studs for carpet turf and gravel.",
+      "studType": "High-Density Rubber Micro-Lugs",
+      "collarStyle": "mid-collar",
+      "upperMaterial": "Micro-textured Synthetic with Breathable Mesh Tongue",
+      "proTier": "Academy",
+      "shoeSizes": [
+        { "size": 8.0, "stock": 5 },
+        { "size": 9.0, "stock": 8 },
+        { "size": 10.0, "stock": 9 },
+        { "size": 11.0, "stock": 5 }
+      ]
+    }
+  },
+  {
+    "id": "beauty-01",
+    "sku": "BEAUTY-HYDRA-SRM",
+    "name": "HydraGlow Botanical Peptide & HA Serum 50ml",
+    "brand": "Lumina Botanicals",
+    "slug": "hydraglow-peptide-hyaluronic-serum",
+    "category": "cosmetics-beauty",
+    "price": 68.00,
+    "compareAtPrice": 80.00,
+    "rating": 4.9,
+    "reviewCount": 540,
+    "stock": 78,
+    "isFeatured": true,
+    "isNewArrival": false,
+    "thumbnail": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "Multi-molecular weight hyaluronic acid serum infused with copper peptides and centella asiatica.",
+    "description": "Clinically proven to plump fine lines, restore cellular barrier moisture by 240%, and calm irritation. Free from fragrance, drying alcohol, and parabens.",
+    "tags": ["skincare", "serum", "hyaluronic-acid", "peptides", "clean-beauty"],
+    "attributes": {
+      "category": "cosmetics-beauty",
+      "skinTypes": ["all", "dry", "sensitive", "combination"],
+      "keyIngredients": ["Hyaluronic Acid (Triple Complex)", "Copper Tripeptide-1", "Centella Asiatica (Cica)", "Niacinamide 3%"],
+      "fullIngredients": "Aqua/Water, Glycerin, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Copper Tripeptide-1, Centella Asiatica Extract, Niacinamide, Panthenol, Betaine, Allantoin, Ethylhexylglycerin, Phenoxyethanol.",
+      "usageInstructions": "Apply 3-4 drops morning and night to clean, damp face and neck before heavier moisturizers.",
+      "safetyWarnings": "For external use only. Patch test behind the ear prior to first application. Avoid direct eye contact.",
+      "isCrueltyFree": true,
+      "isVegan": true,
+      "volume": "50ml / 1.7 fl. oz."
+    }
+  },
+  {
+    "id": "beauty-02",
+    "sku": "BEAUTY-CLOUDBAR",
+    "name": "CloudBarrier Ceramide Lipid Recovery Balm",
+    "brand": "Lumina Botanicals",
+    "slug": "cloudbarrier-ceramide-lipid-balm",
+    "category": "cosmetics-beauty",
+    "price": 52.00,
+    "compareAtPrice": 60.00,
+    "rating": 4.8,
+    "reviewCount": 389,
+    "stock": 45,
+    "isFeatured": false,
+    "isNewArrival": true,
+    "thumbnail": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "Intensive physiological lipid cream (3:1:1 ratio) to heal compromised skin barriers and redness.",
+    "description": "Formulated with bio-identical ceramides, phytosphingosine, and squalane. Melts effortlessly into the skin with zero greasiness or pore-clogging wax residue.",
+    "tags": ["moisturizer", "ceramides", "barrier-repair", "dry-skin"],
+    "attributes": {
+      "category": "cosmetics-beauty",
+      "skinTypes": ["dry", "sensitive", "combination"],
+      "keyIngredients": ["Ceramide NP, AP, EOP", "Plant Squalane", "Phytosphingosine", "Colloidal Oatmeal"],
+      "fullIngredients": "Aqua, Caprylic/Capric Triglyceride, Squalane, Butyrospermum Parkii (Shea) Butter, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Cholesterol, Colloidal Oatmeal, Xanthan Gum, Tocopherol.",
+      "usageInstructions": "Warm a dime-sized amount between fingertips and gently press into face and neck as the final skincare step.",
+      "safetyWarnings": "If irritation occurs, discontinue use immediately. Store below 25°C out of direct sunlight.",
+      "isCrueltyFree": true,
+      "isVegan": true,
+      "volume": "65ml / 2.2 fl. oz."
+    }
+  },
+  {
+    "id": "beauty-03",
+    "sku": "BEAUTY-MINERAL-SPF",
+    "name": "SolarVeil Invisible Mineral SPF 50 PA++++",
+    "brand": "Aura Cosmetics",
+    "slug": "solarveil-mineral-spf-50",
+    "category": "cosmetics-beauty",
+    "price": 38.00,
+    "compareAtPrice": 45.00,
+    "rating": 4.9,
+    "reviewCount": 472,
+    "stock": 92,
+    "isFeatured": false,
+    "isNewArrival": false,
+    "thumbnail": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "100% Non-Nano Zinc Oxide sunscreen with zero white cast and velvet matte finish under makeup.",
+    "description": "Reef-safe, broad-spectrum UVA/UVB protection powered by 18% transparent non-nano zinc oxide and ectoin antioxidant shields.",
+    "tags": ["sunscreen", "spf50", "mineral", "non-nano", "reef-safe"],
+    "attributes": {
+      "category": "cosmetics-beauty",
+      "skinTypes": ["all", "oily", "sensitive", "combination"],
+      "keyIngredients": ["Non-Nano Zinc Oxide 18%", "Ectoin Antioxidant", "Bisabolol", "Green Tea Leaf Extract"],
+      "fullIngredients": "Zinc Oxide 18%, Aqua, Isododecane, Caprylic/Capric Triglyceride, Butyloctyl Salicylate, Propanediol, Silica, Ectoin, Camellia Sinensis Leaf Extract, Bisabolol, Polyglyceryl-4 Diisostearate.",
+      "usageInstructions": "Shake well. Apply liberally 15 minutes before sun exposure. Reapply every 2 hours or after 80 minutes of swimming.",
+      "safetyWarnings": "Do not swallow. Keep out of reach of children. Rinse thoroughly with water if contact with eyes occurs.",
+      "isCrueltyFree": true,
+      "isVegan": true,
+      "volume": "50ml / 1.7 fl. oz."
+    }
+  },
+  {
+    "id": "beauty-04",
+    "sku": "BEAUTY-VELVET-LIP",
+    "name": "Velvet Whisper Hydrating Cloud Lip Tint",
+    "brand": "Aura Cosmetics",
+    "slug": "velvet-whisper-cloud-lip-tint",
+    "category": "cosmetics-beauty",
+    "price": 24.00,
+    "compareAtPrice": 28.00,
+    "rating": 4.7,
+    "reviewCount": 290,
+    "stock": 110,
+    "isFeatured": false,
+    "isNewArrival": true,
+    "thumbnail": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "Airy whipped mousse matte lip color with nourishing rosehip seed oil and 8-hour transfer resistance.",
+    "description": "Offers buildable blur-effect color that never dries down crinkly. Infused with vitamin E and jojoba esters to keep lips supple throughout the day.",
+    "tags": ["makeup", "lip-tint", "matte", "velvet", "clean"],
+    "attributes": {
+      "category": "cosmetics-beauty",
+      "skinTypes": ["all"],
+      "keyIngredients": ["Rosehip Seed Oil", "Jojoba Esters", "Vitamin E", "Hyaluronic Filling Spheres"],
+      "fullIngredients": "Dimethicone, Dimethicone Crosspolymer, Rosa Canina Fruit Oil, Jojoba Esters, Tocopherol, Silica Silylate, CI 77491, CI 77492, CI 77891, CI 15850.",
+      "usageInstructions": "Glide the plush teardrop applicator across lips starting from center outwards. Dab with fingertip for a soft-focus diffused look.",
+      "safetyWarnings": "Store upright at room temperature.",
+      "isCrueltyFree": true,
+      "isVegan": true,
+      "volume": "4.5ml / 0.15 fl. oz.",
+      "shades": [
+        { "name": "Petal Berry", "hex": "#a3435b", "inStock": true },
+        { "name": "Spiced Terracotta", "hex": "#b35d46", "inStock": true },
+        { "name": "Nude Dahlia", "hex": "#9c6861", "inStock": true }
+      ]
+    }
+  },
+  {
+    "id": "beauty-05",
+    "sku": "BEAUTY-CLARIFY-TNR",
+    "name": "Clarify & Resurface BHA 2% Liquid Exfoliant",
+    "brand": "Lumina Botanicals",
+    "slug": "clarify-resurface-bha-2-liquid",
+    "category": "cosmetics-beauty",
+    "price": 34.00,
+    "compareAtPrice": 40.00,
+    "rating": 4.8,
+    "reviewCount": 315,
+    "stock": 63,
+    "isFeatured": false,
+    "isNewArrival": false,
+    "thumbnail": "https://images.unsplash.com/photo-1608248597359-56336e4f3261?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1608248597359-56336e4f3261?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "Leave-on salicylic acid exfoliant that unclogs congested pores and smooths rough skin texture.",
+    "description": "Oil-soluble salicylic acid deeply penetrates sebum to dissolve blackheads and soothe blemishes, while green tea extracts neutralize oxidative stress.",
+    "tags": ["toner", "exfoliant", "salicylic-acid", "bha", "acne"],
+    "attributes": {
+      "category": "cosmetics-beauty",
+      "skinTypes": ["oily", "combination"],
+      "keyIngredients": ["Salicylic Acid (BHA) 2.0%", "Camellia Oleifera (Green Tea)", "Methylpropanediol"],
+      "fullIngredients": "Aqua, Methylpropanediol, Butylene Glycol, Salicylic Acid, Polysorbate 20, Camellia Oleifera Leaf Extract, Sodium Hydroxide, Tetrasodium EDTA.",
+      "usageInstructions": "Lightly soak a reusable cotton pad or dispense directly into hands; smooth over face avoiding the eyelids. Do not rinse.",
+      "safetyWarnings": "Contains salicylic acid. Use sunscreen daily. Not recommended during pregnancy without consulting your physician.",
+      "isCrueltyFree": true,
+      "isVegan": true,
+      "volume": "118ml / 4 fl. oz."
+    }
+  },
+  {
+    "id": "office-01",
+    "sku": "OFF-DOT-JOURNAL",
+    "name": "Artisan Executive Bullet Dot Journal 160 GSM",
+    "brand": "PaperCraft Studio",
+    "slug": "artisan-bullet-dot-journal-160-gsm",
+    "category": "school-office",
+    "price": 26.00,
+    "compareAtPrice": 32.00,
+    "rating": 4.9,
+    "reviewCount": 420,
+    "stock": 85,
+    "isFeatured": true,
+    "isNewArrival": false,
+    "thumbnail": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "Zero-bleed 160 GSM bamboo paper notebook with 5mm silver foil dot grid and lay-flat Smyth-sewn binding.",
+    "description": "Engineered for fountain pens, watercolor washes, and gouache with zero ghosting. Includes dual satin ribbon bookmarks, an expandable back pocket, and elastic pen loop.",
+    "tags": ["notebook", "journal", "bullet-journal", "stationery", "office"],
+    "attributes": {
+      "category": "school-office",
+      "packQuantity": 1,
+      "isBundleEligible": true,
+      "bundleIncludes": ["Free Brass Ruler Stencil", "Archive Index Sticker Sheet"],
+      "bulkDiscountTiers": [
+        { "minQuantity": 3, "discountPercent": 10 },
+        { "minQuantity": 5, "discountPercent": 15 },
+        { "minQuantity": 10, "discountPercent": 25 }
+      ],
+      "paperGsm": 160,
+      "dimensions": "A5 (5.8 x 8.3 inches) / 192 Numbered Pages",
+      "colorAssortment": ["Midnight Navy Vegan Leather", "Sage Linen", "Terracotta Hardcover"]
+    }
+  },
+  {
+    "id": "office-02",
+    "sku": "OFF-FINE-12PK",
+    "name": "Precision Master Fineliner Pen Set (12-Pack)",
+    "brand": "PaperCraft Studio",
+    "slug": "precision-master-fineliner-12-pack",
+    "category": "school-office",
+    "price": 24.50,
+    "compareAtPrice": 29.99,
+    "rating": 4.8,
+    "reviewCount": 380,
+    "stock": 140,
+    "isFeatured": false,
+    "isNewArrival": true,
+    "thumbnail": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "Archival waterproof pigment ink drawing & drafting pens in 0.05mm to 1.2mm tips + brush.",
+    "description": "Smudge-proof under alcohol markers, lightfast, and acid-free. Long metal-clad tips ensure pinpoint accuracy against rulers and drafting templates.",
+    "tags": ["pens", "drawing", "fineliner", "drafting", "art-supplies"],
+    "attributes": {
+      "category": "school-office",
+      "packQuantity": 12,
+      "isBundleEligible": true,
+      "bulkDiscountTiers": [
+        { "minQuantity": 3, "discountPercent": 10 },
+        { "minQuantity": 6, "discountPercent": 20 },
+        { "minQuantity": 12, "discountPercent": 30 }
+      ],
+      "dimensions": "Box 14cm x 12cm x 1.5cm",
+      "colorAssortment": ["Black Archival Ink"]
+    }
+  },
+  {
+    "id": "office-03",
+    "sku": "OFF-DESK-PAD",
+    "name": "Nordic Merino Wool Felt Desk Mat & Cable Guide",
+    "brand": "Minimalist Work",
+    "slug": "nordic-merino-wool-desk-mat",
+    "category": "school-office",
+    "price": 48.00,
+    "compareAtPrice": 58.00,
+    "rating": 4.9,
+    "reviewCount": 260,
+    "stock": 54,
+    "isFeatured": false,
+    "isNewArrival": false,
+    "thumbnail": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "Antistatic 4mm natural wool felt desk pad with anti-slip natural rubber backing and magnetic cord channel.",
+    "description": "Protects your desktop from scratches while providing a warm, tactile surface for optical mice, keyboards, and handwritten journaling.",
+    "tags": ["desk-mat", "wool-felt", "ergonomic", "workspace", "office"],
+    "attributes": {
+      "category": "school-office",
+      "packQuantity": 1,
+      "isBundleEligible": false,
+      "bulkDiscountTiers": [
+        { "minQuantity": 2, "discountPercent": 12 },
+        { "minQuantity": 5, "discountPercent": 20 }
+      ],
+      "dimensions": "Large: 90cm x 40cm (35.4 x 15.7 inches)",
+      "colorAssortment": ["Anthracite Charcoal", "Heather Light Gray"]
+    }
+  },
+  {
+    "id": "office-04",
+    "sku": "OFF-HIGH-PASTEL",
+    "name": "Pastel Glow Dual-Tip Highlighters (8-Pack)",
+    "brand": "PaperCraft Studio",
+    "slug": "pastel-glow-highlighters-8-pack",
+    "category": "school-office",
+    "price": 14.99,
+    "compareAtPrice": 18.00,
+    "rating": 4.7,
+    "reviewCount": 510,
+    "stock": 190,
+    "isFeatured": false,
+    "isNewArrival": false,
+    "thumbnail": "https://images.unsplash.com/photo-1585336261026-620ee677bf1e?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1585336261026-620ee677bf1e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "Soft aesthetic pastel chisel and fine bullet dual-ended markers with quick-dry anti-smear formula.",
+    "description": "Easy on the eyes for extensive textbook studying and document review. Water-based odorless ink dries in under 3 seconds without bleeding through pages.",
+    "tags": ["highlighters", "stationery", "school", "study", "pastel"],
+    "attributes": {
+      "category": "school-office",
+      "packQuantity": 8,
+      "isBundleEligible": true,
+      "bulkDiscountTiers": [
+        { "minQuantity": 5, "discountPercent": 15 },
+        { "minQuantity": 10, "discountPercent": 25 },
+        { "minQuantity": 25, "discountPercent": 35 }
+      ],
+      "dimensions": "Pack of 8 Dual-Sided Markers",
+      "colorAssortment": ["Mint, Lilac, Peach, Buttercup, Soft Coral, Sky, Rose, Moss"]
+    }
+  },
+  {
+    "id": "office-05",
+    "sku": "OFF-COMPASS-KIT",
+    "name": "Architect Pro Aluminum Drafting & Geometry Set",
+    "brand": "Minimalist Work",
+    "slug": "architect-aluminum-drafting-geometry-set",
+    "category": "school-office",
+    "price": 36.00,
+    "compareAtPrice": 44.00,
+    "rating": 4.8,
+    "reviewCount": 165,
+    "stock": 42,
+    "isFeatured": false,
+    "isNewArrival": true,
+    "thumbnail": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "shortDescription": "Heavy-duty matte anodized aluminum drafting set in velvet-lined protective metal case.",
+    "description": "Includes precision quick-adjust gear compass, laser-etched scale ruler, 45° and 60° triangles, 180° protractor, spare lead tubes, and extension bar.",
+    "tags": ["architecture", "geometry", "compass", "ruler", "engineering"],
+    "attributes": {
+      "category": "school-office",
+      "packQuantity": 1,
+      "isBundleEligible": true,
+      "bulkDiscountTiers": [
+        { "minQuantity": 3, "discountPercent": 10 },
+        { "minQuantity": 8, "discountPercent": 20 }
+      ],
+      "dimensions": "Case: 20cm x 10cm x 2cm",
+      "colorAssortment": ["Space Gray Anodized Aluminum"]
+    }
+  }
+]
